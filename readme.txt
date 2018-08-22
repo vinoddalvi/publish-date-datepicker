@@ -1,7 +1,7 @@
 === Publish Date DatePicker ===
 Contributors: vinod dalvi
 Donate link: http://profiles.wordpress.org/vinod-dalvi
-Tags: Publish Date, DatePicker, Interactive Calendar, Calendar, Pick Date
+Tags: Publish Date, DatePicker, Interactive Calendar, Calendar, Date Picker
 Requires at least: 3.0
 Tested up to: 3.7
 Stable tag: 2.0.0
